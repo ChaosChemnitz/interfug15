@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^css/([a-z\-]+)\.css$ style/$1.css.php [L]
+RewriteRule ^([a-z]+)/?$ index.php?page=$1 [L]
+
+#RewriteRule ^robots\.txt$ robots.php [L]
+#RewriteRule ^Sitemap\.xml$ sitemap.php [L]
+#RewriteRule ^js/([^/\.]+)\.js$ script.php?id=$1 [L]
+#RewriteRule ^data/([A-Za-z0-9]{32})/?$ media.php?id=$1&raw=true [L]
+#RewriteRule ^([a-z0-9]{32})/?$ index.php?id=$1 [L]
+#RewriteRule ^([^/\.]+)/([^/\.]+)/(.) - [F,L]
+</IfModule>
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
