@@ -4,31 +4,35 @@ use Dancer2;
 our $VERSION = '0.1';
 
 our $PAGES = [
-    { url => '/',        name => 'Startseite' },
-    { url => '/anreise', name => 'Anreise' },
-    { url => '/cfp',     name => 'Call for Papers' },
-    { url => '/kontakt', name => 'Kontakt' },
-    { url => '/tickets', name => 'Tickets' },
+    {url => '/',        name => 'Startseite'},
+    {url => '/anreise', name => 'Anreise'},
+    {url => '/cfp',     name => 'Call for Papers'},
+    {url => '/kontakt', name => 'Kontakt'},
+    {url => '/tickets', name => 'Tickets'},
 ];
 
-get '/' => sub {
-    template 'home',  { pages => $PAGES };
-};
+get qr/.*/ => sub {
+    my $site  = request->path;
+    my $found = 0;
 
-get '/anreise' => sub {
-    template 'anreise', { pages => $PAGES };
-};
+    for my $page (@$PAGES) {
+        if ($page->{url} eq "$site") {
+            $found = 1;
+            last;
+        }
+    }
 
-get '/cfp' => sub {
-    template 'cfp', { pages => $PAGES };
-};
+    if (!$found) {
+        send_error "Not found", 404;
+    }
 
-get '/kontakt' => sub {
-    template 'kontakt', { pages => $PAGES };
-};
+    $site = unpack "xA*", $site;
 
-get '/tickets' => sub {
-    template 'tickets', { pages => $PAGES };
+    if ($site eq '') {
+        $site = 'home';
+    }
+
+    template $site, {pages => $PAGES};
 };
 
 true;
