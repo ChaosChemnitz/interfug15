@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>INTERFUG #1//2015</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<link rel="shortcut icon" type="image/png" href="/img/icon.png">
+		<link rel="stylesheet" type="text/css" href="/style/style.css">
+	</head>
+	<body>
+		<table id="container" border="0" cellpadding="0" cellspacing="0">
+			<tr><td id="marx"></td>
+				<td id="main">
+					<header id="header">
+						<h1>INTERFUG #1//2015</h1>
+					</header>
+					<nav id="nav">
+						<ul>
+							<% FOREACH page IN pages %>
+							<li><a href="<% page.url %>" <% IF page.url == request.path %>class="active"<% END %>><span><% page.name %></span></a></li>
+							<% END %>
+						</ul>
+					</nav>
+					<div>
+					<article>
+					<% content %>
+					<footer id="footer" class="box" style="color:#C0C0C0">
+						<ul class="links">
+							<li><a href="https://chaoschemnitz.de/ChaosChemnitz:Impressum">Impressum</a></li>
+							<li>Design by ... + <a href="https://jdi.li/">/jdi/</a>.</li>
+							<li>Perl application by <a href="https://lf-net.org/~littlefox/">LittleFox</a>.</li>
+						</ul>
+					</footer>
+					</article>
+					</div>
+				</td><td id="line"></td>
+			</tr>
+		</table>
+	</body>
+</html>
+
