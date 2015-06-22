@@ -26,7 +26,7 @@ get qr/.*/ => sub {
         send_error "Not found", 404;
     }
 
-    $site = unpack "xA*", $site;
+    $site = substr $site, 1;
 
     if ($site eq '') {
         $site = 'home';
