@@ -40,36 +40,16 @@ Array("name"=>"kontakt","url"=>"/kontakt","title"=>"Kontakt")
 					<div>
 					<article>
 					<?php
-					/*<p>id: <?php echo $pageId; ?></p>*/
-					switch($pageId){
-						
-						case "cfp":
-						echo file_get_contents("text/cfp.html");
-						break;
-						
-						case "tickets":
-						echo file_get_contents("text/tickets.html");
-						break;
-						
-						case "anreise":
-						echo file_get_contents("text/anreise.html");
-						break;
-						
-						case "kontakt":
-						echo file_get_contents("text/kontakt.html");
-						break;
-						
-						default:
-						echo file_get_contents("text/home.html");
-						break;
-					}
+					foreach($pages as $p)
+						if($pageId==$p["name"])
+							echo file_get_contents("text/".$p["name"].".html");
 					?>
-					<footer id="footer" class="box" style="color:#C0C0C0">
+					<!--footer id="footer" class="box" style="color:#C0C0C0">
 						<ul class="links">
 							<li><a href="https://chaoschemnitz.de/ChaosChemnitz:Impressum">Impressum</a></li>
 							<li>Design by ... + <a href="https://jdi.li/">/jdi/</a>.</li>
 						</ul>
-					</footer>
+					</footer-->
 					</article>
 					</div>
 				</td><td id="line"></td>
