@@ -59,6 +59,11 @@ color:#ffde00;
 		font-family: 'OCR';
 		font-weight: 400;
 		color: #363636;
+		margin-bottom:0.5em;
+	}
+	
+	h2{
+		padding-bottom:0.5em;
 	}
 	
 	h3{
@@ -162,6 +167,7 @@ color:#ffde00;
 	}
 	
 	#main article{
+		padding-top:12px;
 		padding-left:100px;
 		padding-right:20px;
 		height:100%;
