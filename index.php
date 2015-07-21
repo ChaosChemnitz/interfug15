@@ -39,11 +39,14 @@ Array("name"=>"kontakt","url"=>"/kontakt","title"=>"Kontakt")
 					</nav>
 					<div>
 					<article>
-					<?php
-					foreach($pages as $p)
-						if($pageId==$p["name"])
-							echo file_get_contents("text/".$p["name"].".html");
-					?>
+			<?php
+			foreach($pages as $p){
+				if($pageId==$p["name"]){
+					$c="if15".substr(base_convert(md5("if15".rand()), 16, 36), 0, 9);
+					echo str_replace("#code#",$c,file_get_contents("text/".$p["name"].".html"));
+				}
+			}
+			?>
 					<!--footer id="footer" class="box" style="color:#C0C0C0">
 						<ul class="links">
 							<li><a href="https://chaoschemnitz.de/ChaosChemnitz:Impressum">Impressum</a></li>
