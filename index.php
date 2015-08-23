@@ -5,7 +5,8 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 $pageId=isset($_GET["page"])?$_GET["page"]:"home";
 $pages=Array(
 Array("name"=>"home","url"=>"/","title"=>"Home"),
-Array("name"=>"cfp","url"=>"/cfp","title"=>"CFP"),
+Array("name"=>"fahrplan","url"=>"/fahrplan","title"=>"Fahrplan"),
+/* Array("name"=>"cfp","url"=>"/cfp","title"=>"CFP"), */
 Array("name"=>"tickets","url"=>"/tickets","title"=>"Tickets"),
 Array("name"=>"anreise","url"=>"/anreise","title"=>"Anreise"),
 Array("name"=>"kontakt","url"=>"/kontakt","title"=>"Kontakt")
