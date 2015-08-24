@@ -1,0 +1,201 @@
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+<vcalendar>
+<version>2.0</version>
+<prodid>-//Pentabarf//Schedule//EN</prodid>
+<x-wr-caldesc>interfug2015 Schedule</x-wr-caldesc>
+<x-wr-calname>interfug2015 Schedule</x-wr-calname>
+<vevent>
+<method>PUBLISH</method>
+<uid>6985@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>6985</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-6985-social_pre-event</pentabarf:event-slug>
+<pentabarf:title>social pre-event</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150828T180000</dtstart>
+<dtend>20150828T210000</dtend>
+<duration>030000</duration>
+<summary>social pre-event- </summary>
+<description>Es gibt ein social pre event.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/6985.html</url>
+<location>Lokomov</location>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7002@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7002</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7002-wir_kochen_hagebuttenmarmelade</pentabarf:event-slug>
+<pentabarf:title>Wir kochen Hagebuttenmarmelade</pentabarf:title>
+<pentabarf:subtitle>Woran scheitert der Datenschutz?</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150829T151500</dtstart>
+<dtend>20150829T161500</dtend>
+<duration>010000</duration>
+<summary>Wir kochen Hagebuttenmarmelade- Woran scheitert der Datenschutz?</summary>
+<description>Nach Auskunft von Datenschützern sind alle Bemühungen um den Datenschutz der letzten 20 Jahre gescheitert. Ineinem Vortrag möchte ich erklären woran das liegt.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7002.html</url>
+<location>Lokomov</location>
+<attendee>kusanowsky</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7003@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7003</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7003-erfolgscheisse_software_ess</pentabarf:event-slug>
+<pentabarf:title>ErfolgScheiße Software (ESS)</pentabarf:title>
+<pentabarf:subtitle>Warum Planung von Softwareprojekten ab und an doch Sinn macht.</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150829T124500</dtstart>
+<dtend>20150829T134500</dtend>
+<duration>010000</duration>
+<summary>ErfolgScheiße Software (ESS)- Warum Planung von Softwareprojekten ab und an doch Sinn macht.</summary>
+<description>Erfolgscheiße. Dieses Kunstwort bringt den Inhalt des Beitrages auf den Punkt. Softwareentwickler stehen nicht selten vor einem Stück Software, das produktiv im Einsatz ist, sich aber überhaupt kein bisschen Pflegen und Warten lässt. Schlimm genug, gibt es dabei Programme, die seit Jahren erfolgreich im Einsatz sind. Niemand weiß warum. Und so lange das Programm macht was es soll, ist das auch gut so. Aber wehe, es tritt ein Fehler auf.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7003.html</url>
+<location>Lokomov</location>
+<attendee>sfxon</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7004@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7004</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7004-event_planning</pentabarf:event-slug>
+<pentabarf:title>Event Planning</pentabarf:title>
+<pentabarf:subtitle>Vorbereitung auf einen Event</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150830T140000</dtstart>
+<dtend>20150830T160000</dtend>
+<duration>020000</duration>
+<summary>Event Planning- Vorbereitung auf einen Event</summary>
+<description>wie bereitet man sich auf einen event wie diesen vor?
+bekanntmachung, twitter, facebook, google plus?
+materialien einpacken, anreise, unterkunft,
+auswahl von vortraegen, beteiligung an workshops.
+meine eigene ansicht.. und dann mal alles
+gemeinsam zusammentragen.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7004.html</url>
+<location>Lokomov</location>
+<attendee>Sven Guckes</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7005@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7005</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7005-torrenting_on_the_interwebs</pentabarf:event-slug>
+<pentabarf:title>Torrenting on the Interwebs</pentabarf:title>
+<pentabarf:subtitle>You don't need an &quot;app&quot; to share</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150829T163000</dtstart>
+<dtend>20150829T171500</dtend>
+<duration>004500</duration>
+<summary>Torrenting on the Interwebs- You don't need an &quot;app&quot; to share</summary>
+<description>Es geht um die Adaption von BitTorrent-Filesharing auf Web-Technologien.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7005.html</url>
+<location>Lokomov</location>
+<attendee>Astro</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7007@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7007</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7007-suckless_org</pentabarf:event-slug>
+<pentabarf:title>Suckless.org</pentabarf:title>
+<pentabarf:subtitle>Einfache Software für Alle!</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150829T140000</dtstart>
+<dtend>20150829T150000</dtend>
+<duration>010000</duration>
+<summary>Suckless.org- Einfache Software für Alle!</summary>
+<description>Suckless.org ist das Überprojekt von einfacher Softwarew wie dwm, st, tabbed, surf, sbase, sinit und mehr. Der Vortrag stellt das Projekt und seine Ziele vor.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7007.html</url>
+<location>Lokomov</location>
+<attendee>Zwansch</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7009@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7009</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7009-webrtc_security</pentabarf:event-slug>
+<pentabarf:title>WebRTC Security</pentabarf:title>
+<pentabarf:subtitle>Was ist WebRTC und (wieso) ist es sicher?</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150830T110000</dtstart>
+<dtend>20150830T114500</dtend>
+<duration>004500</duration>
+<summary>WebRTC Security- Was ist WebRTC und (wieso) ist es sicher?</summary>
+<description>Dank WebRTC können Webapplikationen verschlüsselte Videokonferenzen und Dateiübertragung direkt zwischen den Browsern anbieten. Aber wie Funktioniert diese Technologie eigentlich, wie sicher ist sie wirklich, welche Hürden gibt es und wo liegen ihre Grenzen?</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7009.html</url>
+<location>Lokomov</location>
+<attendee>Stephan Thamm</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7073@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7073</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7073-die_uberwachung</pentabarf:event-slug>
+<pentabarf:title>Die Überwachung</pentabarf:title>
+<pentabarf:subtitle>- was wissen wir bisher?</pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150830T121500</dtstart>
+<dtend>20150830T134500</dtend>
+<duration>013000</duration>
+<summary>Die Überwachung- - was wissen wir bisher?</summary>
+<description>Der Vortrag gibt einen Überblick über die NSA-Affäre, auch gerade diejenigen Punkte, die die Bundesrepublik Deutschland betreffen. Im letzten Kapitel werden einige Fragen behandelt, die sich daraus für die gesellschaftliche Diskussion ergeben.</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7073.html</url>
+<location>Lokomov</location>
+<attendee>Mark Neis</attendee>
+</vevent>
+<vevent>
+<method>PUBLISH</method>
+<uid>7074@interfug2015@pentabarf.org</uid>
+<pentabarf:event-id>7074</pentabarf:event-id>
+<pentabarf:event-slug>interfug2015-7074-sichere_kontaktdatenverteilung_mit_sm_rtrns</pentabarf:event-slug>
+<pentabarf:title>Sichere Kontaktdatenverteilung mit Sm@rtRNS</pentabarf:title>
+<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:language>German</pentabarf:language>
+<pentabarf:language-code>de</pentabarf:language-code>
+<dtstart>20150829T114500</dtstart>
+<dtend>20150829T121500</dtend>
+<duration>003000</duration>
+<summary>Sichere Kontaktdatenverteilung mit Sm@rtRNS- </summary>
+<description>Ende-zu-Ende-verschlüsselter Kontaktdatenaustausch über DNS und HTTP</description>
+<class>PUBLIC</class>
+<status>CONFIRMED</status>
+<category>Lecture</category>
+<url>https://www.interfug.de/fahrplan/2015/events/7074.html</url>
+<location>Lokomov</location>
+<attendee>Tesla42</attendee>
+</vevent>
+</vcalendar>
+</iCalendar>

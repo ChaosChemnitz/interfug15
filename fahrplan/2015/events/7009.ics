@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T110000
+DTSTAMP;VALUE=DATE-TIME:20150823T220703Z
+UID:47c2ca1d-b45b-47d1-a3a5-912be6e8c1fc@frab.cccv.de
+DESCRIPTION:Dank WebRTC können Webapplikationen verschlüsselte Videokonfe
+ renzen und Dateiübertragung direkt zwischen den Browsern anbieten. Aber 
+ wie Funktioniert diese Technologie eigentlich\, wie sicher ist sie wirkl
+ ich\, welche Hürden gibt es und wo liegen ihre Grenzen?
+URL:https://www.interfug.de/fahrplan/2015/events/7009.html
+SUMMARY:WebRTC Security
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+END:VCALENDAR
