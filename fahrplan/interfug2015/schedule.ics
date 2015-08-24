@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:Europe/Berlin
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T121500
+DTSTAMP;VALUE=DATE-TIME:20150822T165247Z
+UID:88af6df5-8abe-4d9f-9915-d5689780e5f9@frab.cccv.de
+DESCRIPTION:Der Vortrag gibt einen Überblick über die NSA-Affäre\, auch g
+ erade diejenigen Punkte\, die die Bundesrepublik Deutschland betreffen. 
+ Im letzten Kapitel werden einige Fragen behandelt\, die sich daraus für 
+ die gesellschaftliche Diskussion ergeben.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7073
+SUMMARY:Die Überwachung
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T134500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T124500
+DTSTAMP;VALUE=DATE-TIME:20150823T221001Z
+UID:2f9a51e7-9ab5-436e-8cfb-550dcf8a6543@frab.cccv.de
+DESCRIPTION:Erfolgscheiße. Dieses Kunstwort bringt den Inhalt des Beitrag
+ es auf den Punkt. Softwareentwickler stehen nicht selten vor einem Stück
+  Software\, das produktiv im Einsatz ist\, sich aber überhaupt kein biss
+ chen Pflegen und Warten lässt. Schlimm genug\, gibt es dabei Programme\,
+  die seit Jahren erfolgreich im Einsatz sind. Niemand weiß warum. Und so
+  lange das Programm macht was es soll\, ist das auch gut so. Aber wehe\,
+  es tritt ein Fehler auf.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7003
+SUMMARY:ErfolgScheiße Software (ESS)
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T160000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T140000
+DTSTAMP;VALUE=DATE-TIME:20150823T220856Z
+UID:ff29effc-540c-4d6d-b5cf-fb1e6002cd29@frab.cccv.de
+DESCRIPTION:wie bereitet man sich auf einen event wie diesen vor?\nbekann
+ tmachung\, twitter\, facebook\, google plus?\nmaterialien einpacken\, an
+ reise\, unterkunft\,\nauswahl von vortraegen\, beteiligung an workshops.
+ \nmeine eigene ansicht.. und dann mal alles\ngemeinsam zusammentragen.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7004
+SUMMARY:Event Planning
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T121500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T114500
+DTSTAMP;VALUE=DATE-TIME:20150823T234648Z
+UID:cbdd4902-b98a-4a23-85bf-08446d97a5be@frab.cccv.de
+DESCRIPTION:Ende-zu-Ende-verschlüsselter Kontaktdatenaustausch über DNS u
+ nd HTTP
+URL:https://frab.cccv.de/de/interfug2015/public/events/7074
+SUMMARY:Sichere Kontaktdatenverteilung mit Sm@rtRNS
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150828T210000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150828T180000
+DTSTAMP;VALUE=DATE-TIME:20150707T090223Z
+UID:494b8e9b-5b02-4a70-a3a7-c24702e2f3b2@frab.cccv.de
+DESCRIPTION:Es gibt ein social pre event.
+URL:https://frab.cccv.de/de/interfug2015/public/events/6985
+SUMMARY:social pre-event
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T150000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T140000
+DTSTAMP;VALUE=DATE-TIME:20150823T215153Z
+UID:05b9ab23-dd06-4af9-b14c-813d2d62124b@frab.cccv.de
+DESCRIPTION:Suckless.org ist das Überprojekt von einfacher Softwarew wie 
+ dwm\, st\, tabbed\, surf\, sbase\, sinit und mehr. Der Vortrag stellt da
+ s Projekt und seine Ziele vor.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7007
+SUMMARY:Suckless.org
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T171500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T163000
+DTSTAMP;VALUE=DATE-TIME:20150823T215234Z
+UID:026183c8-20c3-444f-a26a-343bd6d74ee3@frab.cccv.de
+DESCRIPTION:Es geht um die Adaption von BitTorrent-Filesharing auf Web-Te
+ chnologien.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7005
+SUMMARY:Torrenting on the Interwebs
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T114500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150830T110000
+DTSTAMP;VALUE=DATE-TIME:20150823T220703Z
+UID:47c2ca1d-b45b-47d1-a3a5-912be6e8c1fc@frab.cccv.de
+DESCRIPTION:Dank WebRTC können Webapplikationen verschlüsselte Videokonfe
+ renzen und Dateiübertragung direkt zwischen den Browsern anbieten. Aber 
+ wie Funktioniert diese Technologie eigentlich\, wie sicher ist sie wirkl
+ ich\, welche Hürden gibt es und wo liegen ihre Grenzen?
+URL:https://frab.cccv.de/de/interfug2015/public/events/7009
+SUMMARY:WebRTC Security
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T161500
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20150829T151500
+DTSTAMP;VALUE=DATE-TIME:20150824T082020Z
+UID:dc30bafd-f194-4236-86be-43428376432f@frab.cccv.de
+DESCRIPTION:Nach Auskunft von Datenschützern sind alle Bemühungen um den 
+ Datenschutz der letzten 20 Jahre gescheitert. Ineinem Vortrag möchte ich
+  erklären woran das liegt.
+URL:https://frab.cccv.de/de/interfug2015/public/events/7002
+SUMMARY:Wir kochen Hagebuttenmarmelade
+ORGANIZER:interfug2015
+LOCATION:Lokomov
+END:VEVENT
+END:VCALENDAR

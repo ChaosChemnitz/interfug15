@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+<version>0.0.5 fug fug fug</version>
+<conference>
+<acronym>interfug2015</acronym>
+<title>interfug</title>
+<start>2015-08-28</start>
+<end>2015-08-30</end>
+<days>3</days>
+<timeslot_duration>00:15</timeslot_duration>
+</conference>
+<day date='2015-08-28' end='2015-08-29T02:00:00+02:00' index='1' start='2015-08-28T18:00:00+02:00'>
+<room name='Lokomov'>
+<event guid='494b8e9b-5b02-4a70-a3a7-c24702e2f3b2' id='6985'>
+<date>2015-08-28T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>03:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-6985-social_pre-event</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>social pre-event</title>
+<subtitle></subtitle>
+<track>track</track>
+<type>meeting</type>
+<language>de</language>
+<abstract>Es gibt ein social pre event.</abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Nikola-Tesla'>
+</room>
+<room name='Kabinettstückchen'>
+</room>
+</day>
+<day date='2015-08-29' end='2015-08-29T20:00:00+02:00' index='2' start='2015-08-29T11:00:00+02:00'>
+<room name='Lokomov'>
+<event guid='cbdd4902-b98a-4a23-85bf-08446d97a5be' id='7074'>
+<date>2015-08-29T11:45:00+02:00</date>
+<start>11:45</start>
+<duration>00:30</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7074-sichere_kontaktdatenverteilung_mit_sm_rtrns</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Sichere Kontaktdatenverteilung mit Sm@rtRNS</title>
+<subtitle></subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Ende-zu-Ende-verschlüsselter Kontaktdatenaustausch über DNS und HTTP</abstract>
+<description>Das DNS wurde nicht nur zum Hinterlegen von IP-Adressen zu Domainnamen vorgesehen. Es wurde auch geplant z. B. Telefonnummern zuzuordnen. Ein Domainname ist einfacher zu merken als die Nummer. Ein Wechsel der Nummer, z. B. neuem Handyvertrag stellt kein Problem dar. Keiner muss sich die neue Nummer erfragen oder Merken, da wieder die gleiche Domain aufgerufen werden kann.
+
+Die Technik hat sich nur sehr wenig verbreitet, da die Inhalte nicht verschlüsselt werden. Unser Ziel ist die Eintragung verschlüsselter Inhalte, die nur entschlüsselt werden können, wenn der Domainname + evtl. Passwort bekannt sinn.</description>
+<persons>
+<person id='4652'>Tesla42</person>
+</persons>
+<links>
+<link href='smartrns.net'>Sm@rtRNS</link>
+</links>
+</event>
+<event guid='2f9a51e7-9ab5-436e-8cfb-550dcf8a6543' id='7003'>
+<date>2015-08-29T12:45:00+02:00</date>
+<start>12:45</start>
+<duration>01:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7003-erfolgscheisse_software_ess</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>ErfolgScheiße Software (ESS)</title>
+<subtitle>Warum Planung von Softwareprojekten ab und an doch Sinn macht.</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Erfolgscheiße. Dieses Kunstwort bringt den Inhalt des Beitrages auf den Punkt. Softwareentwickler stehen nicht selten vor einem Stück Software, das produktiv im Einsatz ist, sich aber überhaupt kein bisschen Pflegen und Warten lässt. Schlimm genug, gibt es dabei Programme, die seit Jahren erfolgreich im Einsatz sind. Niemand weiß warum. Und so lange das Programm macht was es soll, ist das auch gut so. Aber wehe, es tritt ein Fehler auf.</abstract>
+<description>Anhand mindestens eines Beispieles wird erläutert, weshalb ein Softwareprojekt erfolgreich sein kann, obwohl es von unerfahrenen Programmierern erstellt wurde, die sich noch nie mit dem Thema Architektur und Planung von Software auseinander gesetzt haben.
+
+Ergänzend soll kurz angerissen werden, wie die Probleme umgangen werden können.
+
+Zusammen mit den Zuhörern soll außerdem innerhalb von 5 Minuten der Vortragszeit eine schnelle Live-Infoliste entstehen, um überzeugten unerfahrenen Entwicklern die Chance zu geben sich selbst an die Lösung des Problemes heranzutasten.
+
+Dazu stellt der Author &quot;lustige&quot; bunte Farbkarten und Filzstifte zur Verfügung.
+
+Alle Zuhörer werden gebeten, Knetbälle (sogenannte Wutbälle) oder Entspannungskugeln mitzubringen. Wir möchten den Vortrag nur ungern wegen Wutanfällen unterbrechen müssen.</description>
+<persons>
+<person id='5722'>sfxon</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='05b9ab23-dd06-4af9-b14c-813d2d62124b' id='7007'>
+<date>2015-08-29T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>01:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7007-suckless_org</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Suckless.org</title>
+<subtitle>Einfache Software für Alle!</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Suckless.org ist das Überprojekt von einfacher Softwarew wie dwm, st, tabbed, surf, sbase, sinit und mehr. Der Vortrag stellt das Projekt und seine Ziele vor.</abstract>
+<description>Suckless.org ist ein Überprojekt um die Entwicklung von einfach zu verstehender und damit erweitbarer Software zu fördern und die (einfache) Infrastruktur dafür zu bieten. Mit Software wie dwm, st, tabbed, surf, sbase, sinit und mehr kleineren Programmen erleichern sich schon heute viele tausende Entwickler und auch Nutzer das Leben. Wie das geschieht, was der Unterschied zum Softwaremassenmarkt ist und wie du dabei helfen kannst das Leben vieler Menschen zu erleichertn, das werde ich vorstellen, indem ich das Sucklessprojekt vorstelle.
+
+Bevorzugt sollten Programmierer angesprochen sein.</description>
+<persons>
+<person id='5719'>Zwansch</person>
+</persons>
+<links>
+<link href='http://www.suckless.org'>Suckless.org</link>
+</links>
+</event>
+<event guid='dc30bafd-f194-4236-86be-43428376432f' id='7002'>
+<date>2015-08-29T15:15:00+02:00</date>
+<start>15:15</start>
+<duration>01:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7002-wir_kochen_hagebuttenmarmelade</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wir kochen Hagebuttenmarmelade</title>
+<subtitle>Woran scheitert der Datenschutz?</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Nach Auskunft von Datenschützern sind alle Bemühungen um den Datenschutz der letzten 20 Jahre gescheitert. Ineinem Vortrag möchte ich erklären woran das liegt.</abstract>
+<description>Datenschutz wird in der Gesellschaft als juristisches und politisches Problem erkannt und ausschließlich als solches behandelt. Eine andere Betrachtungsweise wird durch die Konzentration auf die juristisch-politische Dimension beinahe ausgeschlossen. Datenschutz als politisch-juristisches Problem zu behandeln bedeutet, dass für alle Beurteilungen die Unterscheidung von „Erlaubt und Verboten“ maßgeblich ist. Das bedeutet praktisch, dass zur Wahrung des Rechts auf informationelle Selbstbestimmung spezielle Experten zuständig sind, welche die Funktion haben als Anwälte für Bürger gegenüber dem Staat Rechte einzufordern und die Einhaltung von gesetzlichen Bestimmungen zu thematisieren.
+Die neuere Entwicklung des Internets zeigt, dass alle Maßnahmen zur Sicherstellung eines Datenschutzes gescheitert sind.
+In einem Vortrag möchte ich versuchen zu erklären, wie dieses Scheitern möglich ist und warum sich daran auch in nächster Zeit nichts ändern wird. Der zu erläuternde Grund dafür lautet, dass die Information über Daten nur in Ausnahmefällen von rechtlicher Relevanz ist und darum nur in Ausnahmefällen politisch und rechtlich geregelt werden kann. Tatsächlich hat aber der Informationsgehalt von Daten in den meisten Fällen kaum eine spezifische Bedeutung, es sei denn es finden sich Experten, die ein exklusives Recht auf den Informationsgehalt von Daten geltend machen können. Solche Exklusivpositionen, die durch ein Expertentum garantiert werden sollen, sind spätestens in Zeiten des Internets nur noch wenig überzeugend.</description>
+<persons>
+<person id='3806'>kusanowsky</person>
+</persons>
+<links>
+<link href='https://differentia.wordpress.com/2015/05/10/wir-kochen-hagebuttenmarmelade1/'>Wir kochen Hagebuttenmarmelade Teil 1</link>
+</links>
+</event>
+<event guid='026183c8-20c3-444f-a26a-343bd6d74ee3' id='7005'>
+<date>2015-08-29T16:30:00+02:00</date>
+<start>16:30</start>
+<duration>00:45</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7005-torrenting_on_the_interwebs</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Torrenting on the Interwebs</title>
+<subtitle>You don't need an &quot;app&quot; to share</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Es geht um die Adaption von BitTorrent-Filesharing auf Web-Technologien.</abstract>
+<description></description>
+<persons>
+<person id='1648'>Astro</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Nikola-Tesla'>
+</room>
+<room name='Kabinettstückchen'>
+</room>
+</day>
+<day date='2015-08-30' end='2015-08-30T16:00:00+02:00' index='3' start='2015-08-30T11:00:00+02:00'>
+<room name='Lokomov'>
+<event guid='47c2ca1d-b45b-47d1-a3a5-912be6e8c1fc' id='7009'>
+<date>2015-08-30T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7009-webrtc_security</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>WebRTC Security</title>
+<subtitle>Was ist WebRTC und (wieso) ist es sicher?</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Dank WebRTC können Webapplikationen verschlüsselte Videokonferenzen und Dateiübertragung direkt zwischen den Browsern anbieten. Aber wie Funktioniert diese Technologie eigentlich, wie sicher ist sie wirklich, welche Hürden gibt es und wo liegen ihre Grenzen?</abstract>
+<description>WebRTC ist ein in Entwicklung befindlicher Standard, der den Einsatz von Echtzeitkommunikation im Browser ermöglicht. Dabei wird für die Übertragung der Daten eine Ende-zu-Ende verschlüsselte Verbindung zwischen den Browsern verwendet und es werden keine, oft fehleranfällige, Plugins wie Adobe Flash benötigt. Nicht zuletzt aufgrund dieser Vorteile erfreut sich die Technologie zunehmender Beliebtheit und wird nicht nur in neu entstanden Projekten wie palava.tv sondern z.B. auch von Facebook verwendet.
+
+Der Vortrag bietet eine Einführung in die Möglichkeiten von WebRTC und gibt einen Überblick über den Standard aus der Sicht eines Webentwicklers bis hinunter zur Übertragung der Informationen im Netzwerk.
+
+Ein besonderer Fokus liegt auf den Chancen und Probleme die WebRTC in Bezug auf Datenschutz und Datensicherheit mit sich bringt. Ist alles wo WebRTC drauf steht automatisch sicher? Kann eine Webapplikation überhaupt absolute Sicherheit bieten?
+</description>
+<persons>
+<person id='5698'>Stephan Thamm</person>
+</persons>
+<links>
+<link href='https://palava.tv'>palava.tv - browser-to-browser video</link>
+</links>
+</event>
+<event guid='88af6df5-8abe-4d9f-9915-d5689780e5f9' id='7073'>
+<date>2015-08-30T12:15:00+02:00</date>
+<start>12:15</start>
+<duration>01:30</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7073-die_uberwachung</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Die Überwachung</title>
+<subtitle>- was wissen wir bisher?</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Der Vortrag gibt einen Überblick über die NSA-Affäre, auch gerade diejenigen Punkte, die die Bundesrepublik Deutschland betreffen. Im letzten Kapitel werden einige Fragen behandelt, die sich daraus für die gesellschaftliche Diskussion ergeben.</abstract>
+<description>Einer kurzen Chronologie der NSA-Veröffentlichungen von E. Snowden folgt eine etwas detailliertere Betrachtung einzelner Aspekte sowie eine Darstellung derjenigen Dinge, die insbesondere Deutschland betreffen. Abschließend geht es um gesellschaftliche Fragen, die diese Affäre aufwirft, z. B. die zunehmend softwaregestützte Beurteilung von Menschen sowie eine Reihe von Beispielen, welche Auswirkungen die Überwachung hat.</description>
+<persons>
+<person id='4130'>Mark Neis</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='ff29effc-540c-4d6d-b5cf-fb1e6002cd29' id='7004'>
+<date>2015-08-30T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>02:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7004-event_planning</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Event Planning</title>
+<subtitle>Vorbereitung auf einen Event</subtitle>
+<track>track</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>wie bereitet man sich auf einen event wie diesen vor?
+bekanntmachung, twitter, facebook, google plus?
+materialien einpacken, anreise, unterkunft,
+auswahl von vortraegen, beteiligung an workshops.
+meine eigene ansicht.. und dann mal alles
+gemeinsam zusammentragen.</abstract>
+<description></description>
+<persons>
+<person id='5721'>Sven Guckes</person>
+</persons>
+<links>
+</links>
+</event>
+</room>
+<room name='Nikola-Tesla'>
+</room>
+<room name='Kabinettstückchen'>
+</room>
+</day>
+</schedule>
