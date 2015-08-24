@@ -173,6 +173,28 @@ In einem Vortrag möchte ich versuchen zu erklären, wie dieses Scheitern mögli
 <links>
 </links>
 </event>
+<event guid='f1082904-966e-4b60-aafd-3e6ac1aab082' id='7075'>
+<date>2015-08-29T17:30:00+02:00</date>
+<start>17:30</start>
+<duration>03:00</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7075-abendprogramm</slug>
+<recording>
+<license></license>
+<optout>true</optout>
+</recording>
+<title>Abendprogramm</title>
+<subtitle>mit musikalischen Überraschungen und sozialer Interaktion (mit Menschen)</subtitle>
+<track></track>
+<type>other</type>
+<language></language>
+<abstract></abstract>
+<description></description>
+<persons>
+</persons>
+<links>
+</links>
+</event>
 </room>
 <room name='Nikola-Tesla'>
 </room>
