@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>0.0.5 fug fug fug</version>
+<version>0.0.6 fug fug fug</version>
 <conference>
 <acronym>interfug2015</acronym>
 <title>interfug</title>
@@ -124,9 +124,32 @@ Bevorzugt sollten Programmierer angesprochen sein.</description>
 <link href='http://www.suckless.org'>Suckless.org</link>
 </links>
 </event>
-<event guid='dc30bafd-f194-4236-86be-43428376432f' id='7002'>
+<event guid='026183c8-20c3-444f-a26a-343bd6d74ee3' id='7005'>
 <date>2015-08-29T15:15:00+02:00</date>
 <start>15:15</start>
+<duration>00:45</duration>
+<room>Lokomov</room>
+<slug>interfug2015-7005-torrenting_on_the_interwebs</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Torrenting on the Interwebs</title>
+<subtitle>You don't need an &quot;app&quot; to share</subtitle>
+<track>track</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Es geht um die Adaption von BitTorrent-Filesharing auf Web-Technologien.</abstract>
+<description></description>
+<persons>
+<person id='1648'>Astro</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='dc30bafd-f194-4236-86be-43428376432f' id='7002'>
+<date>2015-08-29T16:15:00+02:00</date>
+<start>16:15</start>
 <duration>01:00</duration>
 <room>Lokomov</room>
 <slug>interfug2015-7002-wir_kochen_hagebuttenmarmelade</slug>
@@ -148,29 +171,6 @@ In einem Vortrag möchte ich versuchen zu erklären, wie dieses Scheitern mögli
 </persons>
 <links>
 <link href='https://differentia.wordpress.com/2015/05/10/wir-kochen-hagebuttenmarmelade1/'>Wir kochen Hagebuttenmarmelade Teil 1</link>
-</links>
-</event>
-<event guid='026183c8-20c3-444f-a26a-343bd6d74ee3' id='7005'>
-<date>2015-08-29T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>00:45</duration>
-<room>Lokomov</room>
-<slug>interfug2015-7005-torrenting_on_the_interwebs</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Torrenting on the Interwebs</title>
-<subtitle>You don't need an &quot;app&quot; to share</subtitle>
-<track>track</track>
-<type>lecture</type>
-<language>de</language>
-<abstract>Es geht um die Adaption von BitTorrent-Filesharing auf Web-Technologien.</abstract>
-<description></description>
-<persons>
-<person id='1648'>Astro</person>
-</persons>
-<links>
 </links>
 </event>
 <event guid='f1082904-966e-4b60-aafd-3e6ac1aab082' id='7075'>

@@ -33,8 +33,8 @@
 <pentabarf:subtitle>Woran scheitert der Datenschutz?</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20150829T151500</dtstart>
-<dtend>20150829T161500</dtend>
+<dtstart>20150829T161500</dtstart>
+<dtend>20150829T171500</dtend>
 <duration>010000</duration>
 <summary>Wir kochen Hagebuttenmarmelade- Woran scheitert der Datenschutz?</summary>
 <description>Nach Auskunft von Datenschützern sind alle Bemühungen um den Datenschutz der letzten 20 Jahre gescheitert. Ineinem Vortrag möchte ich erklären woran das liegt.</description>
@@ -101,8 +101,8 @@ gemeinsam zusammentragen.</description>
 <pentabarf:subtitle>You don't need an &quot;app&quot; to share</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20150829T163000</dtstart>
-<dtend>20150829T171500</dtend>
+<dtstart>20150829T151500</dtstart>
+<dtend>20150829T160000</dtend>
 <duration>004500</duration>
 <summary>Torrenting on the Interwebs- You don't need an &quot;app&quot; to share</summary>
 <description>Es geht um die Adaption von BitTorrent-Filesharing auf Web-Technologien.</description>
